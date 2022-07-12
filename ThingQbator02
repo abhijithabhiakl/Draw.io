@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T17:43:16.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pelWbnM9M_H14pu10g9H" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T17:46:09.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vl5ZQ1CJt1A1A9FDOOjX" version="20.1.1" type="github">
   <diagram id="XBULkF9pdgUVo68RZPwo" name="Page-1">
-    <mxGraphModel dx="1298" dy="624" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,10 +93,10 @@
           <mxGeometry x="685" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FexzoPSXBdkPL71Gxogm-22" value="The person is in critical state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="637.5" y="499" width="205" height="30" as="geometry" />
+          <mxGeometry x="637.5" y="470" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FexzoPSXBdkPL71Gxogm-24" value="ECG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FexzoPSXBdkPL71Gxogm-25" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="350" width="20" height="20" as="geometry" />
@@ -112,6 +112,9 @@
         </mxCell>
         <mxCell id="FexzoPSXBdkPL71Gxogm-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="670" y="584.12" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FexzoPSXBdkPL71Gxogm-30" value="Location :&amp;nbsp;&lt;h2 style=&quot;background: rgb(255, 255, 255); border: 0px; border-radius: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: inherit; font-stretch: inherit; font-size: 13px; line-height: inherit; font-family: Roboto, &amp;quot;Noto Sans Devanagari UI&amp;quot;, &amp;quot;Noto Sans Bengali UI&amp;quot;, &amp;quot;Noto Sans Telugu UI&amp;quot;, &amp;quot;Noto Sans Tamil UI&amp;quot;, &amp;quot;Noto Sans Gujarati UI&amp;quot;, &amp;quot;Noto Sans Kannada UI&amp;quot;, &amp;quot;Noto Sans Malayalam UI&amp;quot;, &amp;quot;Noto Sans Gurmukhi UI&amp;quot;, Arial, sans-serif; list-style: none; margin: 4px 0px 0px; outline: 0px; overflow: visible; padding: 0px; vertical-align: baseline; text-align: left; user-select: auto;&quot; class=&quot;bwoZTb&quot;&gt;&lt;span style=&quot;user-select: auto;&quot;&gt;9.124616, 76.471244&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="520" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
